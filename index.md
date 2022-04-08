@@ -3,7 +3,7 @@
 # Heading 1
 ## Heading 2
 [Link](https://github.com/phi)lliptwu/cse15l-lab-reports/edit/main/index.md)
-![Image](http://url/a.png)
+![Image](https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg)
 > Blockquote
 
 * List
