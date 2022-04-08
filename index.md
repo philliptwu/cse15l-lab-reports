@@ -6,13 +6,13 @@
 ![Image](http://url/a.png)
 > Blockquote
 
-*List
-*List
-*list
+* List
+* List
+* list
 
--List
--List
--List
+- List
+- List
+- List
 
 1. 1.
 2. 2.
