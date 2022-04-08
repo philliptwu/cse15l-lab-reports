@@ -1,8 +1,13 @@
 *Italic*
+
 **Bold**
+
 # Heading 1
+
 ## Heading 2
+
 [Link](https://github.com/philliptwu/cse15l-lab-reports/edit/main/index.md)
+
 ![Image](https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg)
 > Blockquote
 
