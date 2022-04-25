@@ -2,3 +2,4 @@
 
 ## First code change
 
+![image](Lab2ss1.png)
