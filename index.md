@@ -2,7 +2,8 @@
 [Lab Report 1](https://philliptwu.github.io/cse15l-lab-reports/Week-2-Lab-Report.html)
 <br>
 [Lab Report 2](https://philliptwu.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
-
+<br>
+[Lab Report 3](https://philliptwu.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
 
 
