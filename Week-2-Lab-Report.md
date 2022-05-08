@@ -2,7 +2,7 @@
 
 ## **Installing VScode**
 * Download VScode [here](https://code.visualstudio.com/Download)
-* Follow the instructions to download it and you should see a screen like this ![image](VScodeScreenshot.png)
+* Follow the instructions to download it and you should see a screen like this ![image](lab1pics/VScodeScreenshot.png)
 
 ## **Remotely Connecting**
 * Open a terminal in VSCode
@@ -12,7 +12,7 @@ Type this into your terminal where the "zzz" is your last 3 letters in your user
 `ssh cs15lsp22zzz@ieng6.ucsd.edu` 
 
 * After you type it in and put in your password, you should see a message like this:
-![image](ScreenShotVsCodeRemote.png)
+![image](lab1pics/ScreenShotVsCodeRemote.png)
 
 If you get this message, that means you're in the server now.
 
@@ -28,7 +28,7 @@ Here are some helpful commands to try out:
 * cat /home/linux/ieng6/cs15lsp22/public/hello.txt
 
 Here is what the results of those commands will look like:
-![image](VScodeCommands.png)
+![image](lab1pics/VScodeCommands.png)
 
 * ls lists the files in the directory and the -lat makes it so that it shows all the files without ignoring files starting with a "." and sorting by time in the long listing format
 * cat shows the contents of the file
@@ -57,7 +57,7 @@ scp WhereAmI.java cs15lsp22zzz@ieng6.ucsd.edu:~/
 Put in your password and it should give the bottom picture.
 
 
-![image](VScodeCopy.png)
+![image](lab1pics/VScodeCopy.png)
 
 ## **Setting up an SSH Key**
 
@@ -69,11 +69,11 @@ ssh-keygen
 ```
 You should get a a message like this, but replace quit with your directory to store the key. (/Users/\<user-name>/.ssh/id_rsa)
 <br><br>
-![image](VScodeKey.png)
+![image](lab1pics/VScodeKey.png)
 
 It should give a message like this next
 <br><br>
-![image](VScodePrint.png)
+![image](lab1pics/VScodePrint.png)
 
 **If you're on windows follow the `ssh-add` steps on [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)**
 
@@ -95,9 +95,9 @@ You can make remote running more efficient by writing commands in the terminal b
 
 * You can write a command in quotes at the end of an ssh command to directly run it on the server and exit
 
-![image](VScodeOp1.png)
+![image](lab1pics/VScodeOp1.png)
 * You can also use semicolons to run multiple commands on the same line
 
-![image](VScodeOp2.png)
+![image](lab1pics/VScodeOp2.png)
 
 * You can use the up-arrow on the keyboard to bring back up the last command that was run
