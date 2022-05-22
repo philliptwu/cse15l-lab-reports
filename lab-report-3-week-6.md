@@ -8,20 +8,20 @@ Host ieng6
     HostName ieng6.ucsd.edu
     User cs15lsp22<username>
 ```
-![image](lab3ss1.png)
+![image](lab3pics/lab3ss1.png)
 
 ### Now that it is setup, you can type this into your terminal and log into the server without a password
 ```
 ssh ieng6
 ```
 
-![image](lab3ss2.png)
+![image](lab3pics/lab3ss2.png)
 <br>
 
 ### An example of moving files with scp without using the full username
 <br>
 
-![image](lab3ss3.png)
+![image](lab3pics/lab3ss3.png)
 
 ## Creating a key for Github
 
@@ -34,19 +34,19 @@ cat id_rsa_github
 
 <br>
 
-![image](lab3ss5.png)
+![image](lab3pics/lab3ss5.png)
 
 ### This is the key on the ieng6 machine
 
 <br>
 
-![image](lab3ss7.png)
+![image](lab3pics/lab3ss7.png)
 
 ### Commiting and pushing changes from ieng6
 
 <br> 
 
-![image](lab3ss8.png)
+![image](lab3pics/lab3ss8.png)
 
 ### Link to commit
 
@@ -54,7 +54,7 @@ cat id_rsa_github
 
 Link to commit [here](https://github.com/philliptwu/skill-demo/commit/04ab46c7733f4c401103901d90884b7c0ff2bb8b)
 
-![image](lab3ss9.png)
+![image](lab3pics/lab3ss9.png)
 
 ## Copying whole directories with scp -r
 
@@ -68,13 +68,13 @@ scp -r C:\Users\packp\Documents\Github\markdown-parser ieng6:~/
 
 <br>
 
-![image](lab3ss10.png)
+![image](lab3pics/lab3ss10.png)
 
 ### Logging into ieng6 to compile and run the tests of markdown-parser
 
 <br> 
 
-![image](lab3ss11.png)
+![image](lab3pics/lab3ss11.png)
 
 I used the Makefile to compile and test it from the server.
 
@@ -89,7 +89,7 @@ This resulted in the output below:
 <br>
 
 * Top of the output
-![image](lab3ss12.png) <br><br>
+![image](lab3pics/lab3ss12.png) <br><br>
 * Bottom of the output
-![image](lab3ss13.png)
+![image](lab3pics/lab3ss13.png)
 
