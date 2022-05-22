@@ -38,7 +38,7 @@ I think that it would be a small code change to find the backticks in the links.
 ![image](lab4pics/lab4ss2r.png)
 ### Response:
 I think that it will be more involved to get brackets and parentheses, but I think It will require looking for all of the brackets without slashes to the left of them because that will mean they are escaped and matching those brackets with their other pair. For each pair, at the closing bracket it would check for a parentheses with a matching pair that could be a link. There would be something to keep track of all the parentheses and their pairs to find the parentheses within the parentheses as the link, and If the first parentheses found an ending pair it would include everything in it as part of a link if it was next to a pair of brackets that didn't have a link in them.
-## Snipper #3
+## Snippet #3
 ```
 [this title text is really long and takes up more than 
 one line
