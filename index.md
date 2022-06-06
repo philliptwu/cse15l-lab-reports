@@ -7,7 +7,7 @@
 <br>
 [Lab Report 4](https://philliptwu.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 <br>
-[Lab Report 4](https://philliptwu.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+[Lab Report 5](https://philliptwu.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
 
 
 
